@@ -6,7 +6,8 @@
 
 🔑​Key Features:
  - ​Regional Performance Slicers: Interactive top-bar navigation for Asia Pacific, Europe, LATAM, and USCA.
-​Category Decomposition: A donut chart combined with stacked bar charts to show Sales by Category vs. Year.
+​
+ - Category Decomposition: A donut chart combined with stacked bar charts to show Sales by Category vs. Year.
 
  - ​Dynamic Ticker: A bottom-scroll style metric bar showing specific sales figures for Binders, Paper, Phones, etc.
 
