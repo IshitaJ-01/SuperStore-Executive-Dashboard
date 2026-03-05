@@ -12,6 +12,7 @@
 
  - Customer Insights: Ranking of the Top 5 customers by revenue (e.g., Aaron Bergman at $0.55M).
 ​
+
 🔑Key Metrics Visualized:
 ​
  - Total Sales Growth: Trended from $11M (2012) to $21M (2015).
